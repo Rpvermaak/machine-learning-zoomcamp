@@ -1,0 +1,88 @@
+# ==================================
+# My local reference copies (not my original work)
+# ==================================
+transcripts/
+fetch_transcripts.py
+notebooklm_exports/
+.tmp/
+
+# ==================================
+# Cloud & Security (CRITICAL)
+# ==================================
+*.pem
+*.key
+.env
+credentials/
+keys/
+
+# ==================================
+# Python
+# ==================================
+__pycache__/
+**__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# ==================================
+# Jupyter
+# ==================================
+.ipynb_checkpoints/
+
+# ==================================
+# Data files
+# ==================================
+*.csv
+*.parquet
+*.pkl
+*.h5
+
+# ==================================
+# Model artifact directories
+# ==================================
+models/
+model_artifacts/
+mlruns/
+checkpoints/
+
+# ==================================
+# OS & IDE
+# ==================================
+.DS_Store
+Thumbs.db
+*.log
+.idea
+.history
+
+# ==================================
+# Course content (reference only - not tracked)
+# ==================================
+/01-intro/
+/02-regression/
+/03-classification/
+/04-evaluation/
+/05-deployment/
+/06-trees/
+/08-deep-learning/
+/09-serverless/
+/10-kubernetes/
+/11-kserve/
+/cohorts/
+/images/
+/docs/
+/projects/
+/article/
+
+# ==================================
+# Raw inbox — exclude binary assets, track INBOX.md and structure
+# ==================================
+raw/papers/*
+raw/screenshots/*
+raw/code-clippings/*
+raw/links/*
+!raw/papers/.gitkeep
+!raw/screenshots/.gitkeep
+!raw/code-clippings/.gitkeep
+!raw/links/.gitkeep
