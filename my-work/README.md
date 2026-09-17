@@ -6,7 +6,7 @@ All code, notebooks, and notes I've written while completing the [Machine Learni
 
 | # | Directory | What I Built | Key Skills |
 |---|-----------|-------------|------------|
-| 1 | [`01-intro/`](01-intro/) | Not started | CRISP-DM, supervised learning foundations, environment setup |
+| 1 | [`01-intro/`](01-intro/) | ✅ Complete — [homework1.ipynb](01-intro/homework1.ipynb) | CRISP-DM, supervised learning foundations, environment setup |
 | 2 | [`02-regression/`](02-regression/) | Not started | Linear regression from scratch & scikit-learn, feature engineering, regularization |
 | 3 | [`03-classification/`](03-classification/) | Not started | Logistic regression, categorical encoding, feature importance |
 | 4 | [`04-evaluation/`](04-evaluation/) | Not started | Accuracy/precision/recall/F1, confusion matrices, ROC/AUC, cross-validation |
