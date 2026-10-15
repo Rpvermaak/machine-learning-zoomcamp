@@ -12,7 +12,7 @@ uv --version
 
 ## Q2 — Locked scikit-learn version
 
-Read from the lockfile without regenerating it:
+Read from the lockfile without regenerating it: 1.7.2
 
 ```bash
 grep -A2 'name = "scikit-learn"' uv.lock
