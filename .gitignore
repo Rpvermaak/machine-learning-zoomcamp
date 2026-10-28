@@ -86,3 +86,6 @@ raw/links/*
 !raw/screenshots/.gitkeep
 !raw/code-clippings/.gitkeep
 !raw/links/.gitkeep
+
+# Anaconda Navigator project metadata
+anaconda_projects/
